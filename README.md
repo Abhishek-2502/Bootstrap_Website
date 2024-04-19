@@ -2,10 +2,6 @@
 
 Welcome to the Bootstrap Website project! This repository contains a small, visually appealing website created using the Bootstrap framework. This project serves as a learning experience in utilizing Bootstrap for building responsive and well-designed websites.
 
-## About
-
-This project demonstrates the use of Bootstrap to create a modern, visually appealing website with responsive design. It's an excellent way to learn Bootstrap and improve your front-end development skills.
-
 ## Table of Contents
 
 - [Features](#features)
