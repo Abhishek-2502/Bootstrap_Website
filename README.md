@@ -8,7 +8,8 @@ Welcome to the Bootstrap Website project! This repository contains a small, visu
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [Author](#author)
+  
 ## Features
 
 - **Responsive Design**: The website is designed to look great on any device, thanks to Bootstrap's responsive design capabilities.
@@ -36,3 +37,7 @@ Welcome to the Bootstrap Website project! This repository contains a small, visu
 Contributions are welcome! If you find any issues or want to suggest improvements, please open an issue or submit a pull request.
 
 Thank you for checking out this project! Let me know if there's anything else I can help you with.
+
+## Author
+
+Abhishek Rajput.
